@@ -1,0 +1,26 @@
+h1{
+	color: white;
+	text-align: center;
+	font size: 14pt;
+	font-family: Courier New;	
+}
+
+h2{
+	color: black;
+	text-align: center;
+	font-size: 16pt;
+	font-family: fantasy;
+}
+body { background-image: url("/yanet/imagenes/fondo.jpg");
+height: 100vh;
+background-position: center;
+background-repeat: repeat; 
+background-size: cover;}
+hr { background-color: black; height: 5px; border: 5; }
+
+p{
+	color: white;
+	font-size: 20pt;
+	font-family: Optima;
+}
+
